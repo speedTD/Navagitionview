@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+
+        android:title="king"
+        android:id="@+id/king_id"
+        android:icon="@drawable/king"
+        />
+    <item
+
+        android:title="upload"
+        android:id="@+id/upload_id"
+        android:icon="@drawable/upload"
+        />
+    <item
+
+        android:title="setting"
+        android:id="@+id/setting_id"
+        android:icon="@drawable/setting"
+        />
+    <item
+
+        android:title="Notification"
+        android:id="@+id/notification_id"
+        android:icon="@drawable/notification"
+        />
+    <item
+
+        android:title="Share"
+        android:id="@+id/Share_id"
+        android:icon="@drawable/share"
+        />
+    <item
+
+        android:title="Support"
+        android:id="@+id/support_id"
+        android:icon="@drawable/hiihi"
+        />
+</menu>

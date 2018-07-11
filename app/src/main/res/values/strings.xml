@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Navigationview tutorial</string>
+    <string name="Close">close</string>
+    <string name="Open">Open</string>
+</resources>
